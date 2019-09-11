@@ -4,7 +4,7 @@ This is implementation of test task for Revolut:
 Design and implement a RESTful API (including data model and the backing implementation) for money transfers between accounts.
 ```
 
-##Used frameworks
+## Used frameworks
 
 * Java 8 (programming language)
 * Maven (build tool)
@@ -14,12 +14,12 @@ Design and implement a RESTful API (including data model and the backing impleme
 * Lombok (to remove boilerplate code)
 * JUnit (unit tests)
 
-##How to build
+## How to build
 ```
 mvn clean install
 ```
 
-##How to run
+## How to run
 ```
 java -jar target\money-transfer-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
