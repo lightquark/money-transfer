@@ -74,7 +74,7 @@ Add a WITHDRAW transaction with specified account ID and amount.
 This means that ZZZ money will be withdrawn from the account with identifier XXX.
 
 ```
-PUT /transaction/transfer?sourceAccountId=XXX&destinationAccountId=XXX&amount=ZZZ
+PUT /transaction/transfer?sourceAccountId=XXX&destinationAccountId=YYY&amount=ZZZ
 ```
 Add a TRANSFER transaction with specified account IDs and amount.
 
